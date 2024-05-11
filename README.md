@@ -6,7 +6,7 @@ A esta implementación se han ido realizando modificaciones con tal de poder obt
 2. [Segunda modificación](https://github.com/SaraSorianoRossa/Marlin-v3)
 3. [Tercera modificación](https://github.com/SaraSorianoRossa/Marlin-v4)
 
-Además de estas modificaciones se ha definido un [nuevo proceso inner](https://github.com/SaraSorianoRossa/New-inner) en el cual se comprobaba la veracidad de la abertura del polinomio t(X).
+Además de estas modificaciones se ha definido un [nuevo proceso inner](https://github.com/SaraSorianoRossa/New-inner) en el cual se comprobaba la veracidad de la abertura del polinomio $t(X)$.
 
 ## Ejecutar
 Para ejecutar este programa es necesario tener previamente instalado cargo y rust. Una vez se tienen instaladas las librerías necesarias para poder ejecutar la prueba con esta versión es necesario estar en el directorio y escribir en la terminal:
