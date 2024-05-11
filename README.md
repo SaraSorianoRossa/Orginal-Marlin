@@ -19,3 +19,10 @@ En esta versión, igual que en el resto, se ofrece una serie de funciones para t
 ```sh
 cargo test
 ```
+
+## Todas las implementaciones
+1. [Versión original](https://github.com/SaraSorianoRossa/Marlin-v1)
+2. [Primera modificación](https://github.com/SaraSorianoRossa/Marlin-v2)
+3. [Segunda modificación](https://github.com/SaraSorianoRossa/Marlin-v3)
+4. [Tercera modificación](https://github.com/SaraSorianoRossa/Marlin-v4)
+5. [Nuevo proceso inner](https://github.com/SaraSorianoRossa/New-inner)
