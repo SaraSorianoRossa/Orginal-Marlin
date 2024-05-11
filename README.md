@@ -8,13 +8,13 @@ A esta implementación se han realizado tres modificaciones con tal de poder obt
 
 Además de estas modificaciones se ha definido un [nuevo proceso inner](https://github.com/SaraSorianoRossa/New-inner) en el cual se comprobaba la veracidad de la abertura del polinomio $t(X)$.
 
-## Ejecutar
+## Build
 Para ejecutar este programa es necesario tener previamente instalado cargo y rust. Una vez se tienen instaladas las librerías necesarias para poder ejecutar la prueba con esta versión es necesario estar en el directorio y escribir en la terminal:
 ```sh
 cargo build --release
 ```
 
-## Testear
+## Test
 En esta versión, igual que en el resto, se ofrece una serie de funciones para testear. Si se desea ejecutarlas para ver el resultado de ellas:
 ```sh
 cargo test
