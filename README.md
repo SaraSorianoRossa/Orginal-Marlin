@@ -1,5 +1,5 @@
 ## Descripción general
-La implementación que se encuentra en esta librería corresponde a la prueba Marlin descrita en el [paper](https://ia.cr/2019/1047) e implementada en [Rust](https://github.com/arkworks-rs/marlin) con algunas adaptaciones en el código para poder ejecutar mi [TFG](https://github.com/SaraSorianoRossa/TFG).
+La implementación que se encuentra en esta librería corresponde a la prueba Marlin descrita en el [paper](https://ia.cr/2019/1047.pdf) e implementada en [Rust](https://github.com/arkworks-rs/marlin) con algunas adaptaciones en el código para poder ejecutar mi [TFG](https://github.com/SaraSorianoRossa/TFG).
 
 A esta implementación se han realizado tres modificaciones con tal de poder obtener un mejor rendimiento del algoritmo de Marlin:
 1. [Primera modificación](https://github.com/SaraSorianoRossa/Marlin-v2)
